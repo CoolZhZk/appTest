@@ -35,8 +35,10 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>zhulongedu</string>
+				<string>eduvideo</string>
 			</dict>
+			<key>UIRoleDisplayName</key>  
+			<string>zhulongedu</string>
 		</dict>
 	</array>
 </dict>
